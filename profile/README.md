@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1><a href="https://lesson2.guru">CLICK TO PLAY GAME</h1>
+<h1><a href="https://mathtest-99.art">CLICK TO PLAY GAME</h1>
 <HR>---
 <H1><a href="https://mathtest-99.space">CLICK 2 PLAY UNB GAMES</a></H1>
 <HR>---
